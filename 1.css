@@ -1,0 +1,50 @@
+h1{
+font-family: 'Times New Roman', Times, serif;
+color: aqua;
+}
+h2{
+font-family: 'Times New Roman', Times, serif;
+
+}
+p{
+font-family: Arial, Helvetica, sans-serif;
+
+}
+.subrayado {
+    color:#00aa00;
+    text-decoration:underline;
+  }
+  .tachado {
+    color:#00aa00;
+    text-decoration:line-through;
+  }
+  .pregunta {
+    font-family:verdana;
+    font-size:14px;
+    font-style:italic;
+    color:#0000aa;
+  }
+  .respuesta {
+    font-family:verdana;
+    font-size:12px;
+    font-style:normal;
+    text-align:justify;
+    color:#555555;
+  }
+  #cabecera {
+    background-color:#888;
+    color:#ffffff;
+    font-family:Courier;
+  }
+  
+  #cuerpo {
+    background-color:#eee;
+    font-family:Arial;
+    text-indent:20px;
+  }
+  
+  #pie {
+    background-color:#888;  
+    text-align:center;
+    color:#eedd00;
+  }
