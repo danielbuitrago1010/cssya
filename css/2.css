@@ -14,3 +14,24 @@ h3{
     border-style: dotted;
     border-color: #7027A0;
 }
+
+.titulosecundario{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 25px;
+border-top-width: 2px;
+border-bottom-width: 2px;
+border-right-width: 0px;
+border-left-width: 0px;
+
+border-bottom-style: dashed;
+border-top-style: dashed;
+border-left-style: dotted;
+border-right-style: dotted;
+
+border-top-color: #0000ff;
+border-bottom-color: #0000ff;
+border-left-color: #7027A0;
+border-right-color: #7027A0;
+
+
+}
