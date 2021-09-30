@@ -35,3 +35,19 @@ border-right-color: #7027A0;
 
 
 }
+
+.padding{
+    color: black;
+    background-color: #0000ff;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-left: 20px;
+padding-right: 20px;
+
+
+
+}
+
+.hi1{
+margin: 5px;
+}
